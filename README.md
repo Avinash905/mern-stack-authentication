@@ -3,7 +3,7 @@
 <h3>Description :</h3> 
 This is a webapp with login, logout functionalities and many more.
 
-👉[Click here](https://Avinash905.github.io/redux-movie-app) to check out the app.
+👉[Click here](https://mernlogin.onrender.com/) to check out the app.
 <br/>
 
 ### 📃Features :
